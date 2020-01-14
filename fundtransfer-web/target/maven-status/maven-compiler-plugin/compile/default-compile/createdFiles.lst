@@ -1,0 +1,4 @@
+icici\rest\MemberResourceRESTService.class
+icici\controller\MemberController.class
+icici\rest\JaxRsActivator.class
+icici\util\WebResources.class

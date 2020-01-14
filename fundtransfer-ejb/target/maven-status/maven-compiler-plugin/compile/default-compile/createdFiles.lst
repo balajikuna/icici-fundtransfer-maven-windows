@@ -1,0 +1,5 @@
+icici\util\Resources.class
+icici\data\MemberRepository.class
+icici\model\Member.class
+icici\service\MemberRegistration.class
+icici\data\MemberListProducer.class
